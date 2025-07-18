@@ -22,19 +22,19 @@ I don’t do hobbies. I collect domains of mastery. I study systems the way othe
   LLMs, AGI safety, autonomous agents, neuro-symbolic fusion, prompt engineering, multi-modal AI systems — this is more than tech. It’s the birth of synthetic minds.
 
 - **Quantum & Energy Systems**  
-  Energy isn’t just a utility. It’s a philosophy. I’m building reactors that defy convention — blending thermal, quantum, and optical physics to make energy infinite and intelligent.
+  Energy is a philosophy. I’m building reactors that defy convention, blending thermal, quantum, and optical physics to make energy infinite and intelligent.
 
 - **Product Design & Human-Centered Systems**  
-  Form *must* seduce. Function *must* submit. I design like Dieter Rams met Elon Musk in a Figma file.
+  Form *must* seduce. Function *must* submit. I design like Dieter Rams too.
 
 - **Cybersecurity & Digital Sovereignty**  
-  The future needs defenders. I’m not interested in patching holes — I’m building AI-native defense architectures that see through deception before it exists.
+  The future needs defenders. I’m not interested in patching holes. I’m building AI-native defense architectures that see through deception before it exists.
 
 - **Music, Film, Fashion, and Visual Art**  
   I create soundscapes, write scripts, design clothing, and direct ideas into motion. I believe technology and art are two sides of the same rebellion.
 
 - **Business, Politics, Economics, Power**  
-  I study markets, game global systems, and map influence like a war strategist. I don’t want to play the game. I want to rewrite it.
+  I study markets cause i must, imma businessman, i have no choice.
 
 ---
 
