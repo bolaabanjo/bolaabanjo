@@ -7,7 +7,7 @@ I’m an engineer, systems designer, and a deep-tech fan driven by one mission: 
 
 I’m the founder of **FohnAI**, an AI R&D company built to protect the future. Our product, **Cencori**, is an AI platform designed to eliminate human error, preempt digital threats, and make security a default layer of intelligence, for individuals, enterprises, and governments. I also lead **ArcOS**, a career operating system for tech professionals. It's the interface for personal evolution.
 
-I’m currently developing the **QuanTonic Reactor**, a quantum thermal-to-electric energy system built to make energy abundance permanent. I create full-stack systems, from hardware and software to interface and vision. I’ve sacrificed comfort and normalcy to pursue impossible outcomes. This isn’t ambition. This is inevitability.
+I developed the **QuanTonic Reactor**, a quantum thermal-to-electric energy system built to make energy abundance permanent. I create full-stack systems, from hardware and software to interface and vision. I’ve sacrificed comfort and normalcy to pursue impossible outcomes. This isn’t ambition. This is inevitability.
 
 ---
 
